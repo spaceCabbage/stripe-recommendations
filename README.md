@@ -1,4 +1,4 @@
-# How I Stay Sane Implementing Stripe
+# How _I_ Stay Sane Implementing Stripe
 
 _Adapted for Django/DRF with SQLite and a Vue3 Frontend_
 
